@@ -7,8 +7,8 @@ import androidx.recyclerview.widget.RecyclerView;
 
 import com.devkproject.mvpsample.adapter.contract.ImageAdapterContract;
 import com.devkproject.mvpsample.adapter.holder.ImageViewHolder;
+import com.devkproject.mvpsample.data.ImageItem;
 import com.devkproject.mvpsample.listener.OnItemClickListener;
-import com.devkproject.mvpsample.model.ImageItem;
 
 import java.util.ArrayList;
 

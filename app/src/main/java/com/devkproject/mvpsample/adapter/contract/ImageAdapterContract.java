@@ -1,7 +1,7 @@
 package com.devkproject.mvpsample.adapter.contract;
 
+import com.devkproject.mvpsample.data.ImageItem;
 import com.devkproject.mvpsample.listener.OnItemClickListener;
-import com.devkproject.mvpsample.model.ImageItem;
 
 import java.util.ArrayList;
 

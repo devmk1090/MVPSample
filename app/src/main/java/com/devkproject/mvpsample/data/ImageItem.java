@@ -1,7 +1,6 @@
-package com.devkproject.mvpsample.model;
+package com.devkproject.mvpsample.data;
 
 public class ImageItem {
-
     private int imageRes;
     private String title;
 

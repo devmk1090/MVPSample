@@ -8,8 +8,8 @@ import android.widget.ImageView;
 import androidx.recyclerview.widget.RecyclerView;
 
 import com.devkproject.mvpsample.R;
+import com.devkproject.mvpsample.data.ImageItem;
 import com.devkproject.mvpsample.listener.OnItemClickListener;
-import com.devkproject.mvpsample.model.ImageItem;
 import com.devkproject.mvpsample.util.ImageAsync;
 
 import butterknife.BindView;
